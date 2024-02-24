@@ -36,4 +36,5 @@ iter, thanks
 # .gitignore
 
 шаблон .gitignore файла для Python
+
   ----
